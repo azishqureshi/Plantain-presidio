@@ -23,7 +23,7 @@ This project is structured to work smoothly in Eclipse.
 
 1. Open Eclipse.
 2. Go to **File > Open Projects from File System**.
-3. Choose the root project folder (`Plantain presidio`).
+3. Choose the root project folder (`Plantain-presidio`).
 4. Eclipse will recognize the `src` directory as the source folder.
 5. Navigate to `Main.java` inside the `plantainPresidio` package.
 6. Click the green **Run** button to start the game.
