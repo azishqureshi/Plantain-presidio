@@ -1,4 +1,4 @@
-# 🌿 Plantain Presidio
+# Plantain Presidio
 
 **Plantain Presidio** is a text-based adventure game where you try to escape and interconnected chamber by finding plantain chips, fighting enemies, and searching for heals.
 
