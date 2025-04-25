@@ -38,31 +38,31 @@ If you're using VS Code or running from terminal, follow these steps:
 
 The file structure should look like this:
 
-**Plantain-presidio/ <---- You are here**
-└── src/
-    └── plantainPresidio/
-        ├── DefaultRoom.java
-        ├── EnemyRoom.java
-        ├── HealingRoom.java
-        ├── Main.java
-        ├── Player.java
-        ├── Script.java
-        ├── SpecialRoom.java
-        ├── StarterRoom.java
-        └── … other .java files
+**Plantain-presidio/**  <---- You are here 
++ **src/**  
+    + **plantainPresidio/**  
+        |-- `DefaultRoom.java`  
+        |-- `EnemyRoom.java`  
+        |-- `HealingRoom.java`  
+        |-- `Main.java`  
+        |-- `Player.java`  
+        |-- `Script.java`  
+        |-- `SpecialRoom.java`  
+        |-- `StarterRoom.java`  
+        -- … other `.java` files
 
 In the terminal change your directory to src:
 
-cd src
+`cd src`
 
 ### 2. Compile the code:
 
 Once inside, you can compile the .java files using this command:
 
-javac *.java
+`javac *.java`
 
 ### 2. Run the code:
 
 You can then run the program using this command:
 
-java Main
+`java Main`
