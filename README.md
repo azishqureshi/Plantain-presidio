@@ -61,8 +61,8 @@ Once inside, you can compile the .java files using this command:
 
 `javac *.java`
 
-### 2. Run the code:
+### 3. Run the code:
 
 You can then run the program using this command:
 
-`java Main`
+`java plantainPresidio.Main`
