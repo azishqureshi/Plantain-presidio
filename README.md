@@ -1,6 +1,6 @@
 # Plantain Presidio
 
-**Plantain Presidio** is a text-based adventure game where you try to escape and interconnected chamber by finding plantain chips, fighting enemies, and searching for heals.
+**Plantain Presidio** is a text-based adventure game where you try to escape an interconnected chamber by finding plantain chips, fighting enemies, and searching for heals.
 
 Originally created by me and a friend, I recently tweaked, improved the code, and added more features for clarity and easier execution.
 
