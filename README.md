@@ -49,7 +49,7 @@ The file structure should look like this:
         |-- `Script.java`  
         |-- `SpecialRoom.java`  
         |-- `StarterRoom.java`  
-        -- … other `.java` files
+        |-- … other `.java` files
 
 In the terminal change your directory to src:
 
