@@ -17,7 +17,7 @@ Originally created by me and a friend, I recently tweaked, improved the code, an
 
 ## 🛠️ Running in Eclipse (Recommended)
 
-This project is structured to work smoothly in Eclipse.
+This project is optimized for Eclipse.
 
 ### Steps:
 
